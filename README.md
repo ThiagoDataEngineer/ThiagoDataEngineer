@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **ThiagoDataEngineer/ThiagoDataEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on https://www.linkedin.com/company/f1rsttecnologia/?originalSubdomain=br
@@ -8,4 +8,4 @@
 - 👯 I’m looking to collaborate on Data Engineer Projects.
 - 💬 Ask me about Data and Philosophy.
 - 📫 How to reach me: thiagoyoshiaki@gmail.com | https://www.linkedin.com/in/thiagoyoshiaki/
--->
+
