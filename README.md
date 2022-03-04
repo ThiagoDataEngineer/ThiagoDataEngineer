@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ThiagoDataEngineer/ThiagoDataEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ThiagoDataEngineer/ThiagoDataEngineer** is a ✨ _special_ ✨ repository because its `README.md`.
 
 - 🔭 I’m currently working on https://www.linkedin.com/company/f1rsttecnologia/?originalSubdomain=br
 - 🌱 I’m currently learning Until now: Python, Python to Data Science, Predictive and Prescriptive Analytics, Scala, Spark, PySpark, R, Jira Atlassian, ADVPL, ABAP, Clipper, Delphi
